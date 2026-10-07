@@ -1,4 +1,4 @@
-# DevOps Lab - Ton Prénom
+# DevOps Lab - MOLKA
 
 Repository for DevOps infrastructure labs.
 
